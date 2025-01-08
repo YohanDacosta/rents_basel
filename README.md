@@ -1,2 +1,7 @@
-# rents_basel
-Price analysis of the rents in Basel
+# Price analysis of the rents in Basel
+
+## Content of repository
+
+## How to use this repository
+
+
